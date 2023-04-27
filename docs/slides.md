@@ -1,7 +1,6 @@
 ---
 author: Your Name Here
 title: Presentation Title
-date: Presentation Date
 theme: theme name
 slideNumber: true
 center: false
