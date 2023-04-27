@@ -1,7 +1,7 @@
 ---
 author: Your Name Here
 title: Presentation Title
-theme: theme name
+theme: black
 slideNumber: true
 center: false
 width: 1400
